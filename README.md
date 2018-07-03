@@ -1,10 +1,5 @@
 # FAQ Coding Dojo en Gradiant
 
-> ¿Cuándo hay coding dojos en gradiant?
-
-El primer viernes de cada mes, de 15.00 a 17.00 .
-Anunciaremos cada Coding Dojo unos días antes para que la gente se apunte.
-
 > ¿Cuál es la "agenda" (más o menos) del Coding Dojo?
 
     (Primeros ~15 minutos) descripción del problema que plantea la kata y principios que se van a aplicar.
