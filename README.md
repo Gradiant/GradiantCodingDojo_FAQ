@@ -2,8 +2,7 @@
 
 > ¿Cuándo hay coding dojos en gradiant?
 
-El primer viernes de cada mes, de 15.00 a 17.00 .
-Anunciaremos cada Coding Dojo unos días antes para que la gente se apunte.
+Procuramos tener mas de un Dojo al mes, aunque no tenemos fecha fija. Anunciaremos cada Coding Dojo a través de redes sociales (@Gradiant) unos días antes para que la gente se apunte.
 
 > ¿Cuál es la "agenda" (más o menos) del Coding Dojo?
 
@@ -36,7 +35,7 @@ Sí. Al llegar al Coding Dojo te pones en pareja con alguien con quien habitualm
 
 > Una vez que estoy en el dojo, ¿no puedo hacer las katas por mi cuenta?
 
-La idea es aplicar Pair Programming y aprender trabajando dos horas con otra persona.
+La idea es aplicar Pair Programming y aprender trabajando dos horas con otra persona, compartir unas horas con alguien con el que no has trabajado mucho, que tiene conocimientos y puntos de vista distintos es muy enriquecedor, y ayuda a salir de la zona de confort donde habitualmente trabajamos.
 
 > ¿Cómo nos aseguramos de que hay 1 portátil para cada pareja?
 
