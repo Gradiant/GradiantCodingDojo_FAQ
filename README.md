@@ -2,7 +2,7 @@
 
 > ¿Cuándo hay coding dojos en gradiant?
 
-Procuramos tener más de un Dojo al mes, aunque no tenemos fecha fija. Anunciaremos los Coding Dojo a través de redes sociales (@Gradiant) unos días antes.
+Procuramos tener más de un Dojo al mes, aunque no tenemos fecha fija. Anunciaremos los Coding Dojo a través de Twitter (@Gradiant) unos días antes.
 
 > ¿Cuál es la "agenda" (más o menos) del Coding Dojo?
 
