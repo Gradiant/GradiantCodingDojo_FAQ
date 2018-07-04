@@ -2,7 +2,7 @@
 
 > ¿Cuándo hay coding dojos en gradiant?
 
-Procuramos tener mas de un Dojo al mes, aunque no tenemos fecha fija. Anunciaremos cada Coding Dojo a través de redes sociales (@Gradiant) unos días antes para que la gente se apunte.
+Procuramos tener más de un Dojo al mes, aunque no tenemos fecha fija. Anunciaremos los Coding Dojo a través de redes sociales (@Gradiant) unos días antes.
 
 > ¿Cuál es la "agenda" (más o menos) del Coding Dojo?
 
@@ -41,7 +41,7 @@ La idea es aplicar Pair Programming y aprender trabajando dos horas con otra per
 
 Lo mejor es que te traigas el ordenador con todo lo necesario y luego negociéis con cuál de los ordenadores y en qué lenguaje queréis programar.
 
-> ¿Puedo hacer la Kata en <tal lenguaje de programación>?
+> ¿Puedo hacer la Kata en <X lenguaje de programación>?
 
 Claro! pero asegúrate de traer todo lo necesario instalado.
 
