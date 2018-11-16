@@ -18,7 +18,7 @@ Ejemplo: [Args Kata](http://codingdojo.org/kata/Args/)
 
 > No soy de Gradiant, ¿Cómo me puedo apuntar?
 
-- Twitter: Puedes enviar un DM a @fer_vilas
+- Twitter: Puedes enviar un DM a [@fer_vilas](https://twitter.com/fer_vilas)
 - Correo: pdago@gradiant.org o fvilas@gradiant.org
 
 > ¿Puede participar quien quiera?
